@@ -1,6 +1,7 @@
 # Bio_Page
 A capstone Project of my portfolio
 This site is live at: https://sharmisthadas32.github.io/Bio_Page/
+![page1](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/f7734c9f-f374-498b-b315-017d0fdfb346)
 
 
 This is the repository for my capstone project showcasing my personal bio webpage. The project is built primarily using HTML, CSS, and Bootstrap, incorporating various tags, elements, and responsive design techniques. The webpage aims to introduce myself and highlight my skills in HTML, CSS, and Bootstrap.
