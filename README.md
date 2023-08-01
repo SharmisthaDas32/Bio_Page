@@ -7,6 +7,7 @@ This site is live at: https://sharmisthadas32.github.io/Bio_Page/
 
 ![page2](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/479190a9-f156-45c4-82b9-e2a98aa5959a)
 
+![page3](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/8172e970-d2d7-4020-ac6f-56cc93e1e3d7)
 
 
 
