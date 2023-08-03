@@ -3,7 +3,7 @@ A capstone Project of my portfolio
 This site is live at: https://sharmisthadas32.github.io/Bio_Page/
 
 
-![page1](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/f7734c9f-f374-498b-b315-017d0fdfb346)
+![page1 (2)](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/d5eda0b4-27a2-46f6-adb3-25b42255f39b)
 
 ![page2](https://github.com/SharmisthaDas32/Bio_Page/assets/91462857/479190a9-f156-45c4-82b9-e2a98aa5959a)
 
