@@ -22,6 +22,9 @@ html, body {
 .nav-pills .active{
   background-color:rgb(233, 47, 156)!important;
   } 
+.nav .about-me{
+    color: rgb(233, 47, 156) !important;
+  }
 
  
 
